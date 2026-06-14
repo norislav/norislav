@@ -9,7 +9,7 @@ Il mio stack principale è **React, Next.js, TypeScript, Supabase, PostgreSQL e 
 
 Negli ultimi anni ho lavorato su siti web in produzione, esperienze CMS-driven, sistemi di componenti riutilizzabili e progetti web per clienti. Ora mi sto concentrando sulla creazione di prodotti reali all’intersezione tra **AI, design, automazione e product development**.
 
-Attualmente sto construendo **[Kutia](https://keepsly.app)** — uno strumento di gestione visuale degli asset per creativi.
+Attualmente sto construendo **[Kutia](https://www.kutia.app/)** — uno strumento di gestione visuale degli asset per creativi.
 
 ---
 
@@ -25,7 +25,7 @@ Sto costruendo il prodotto end-to-end: struttura del database, autenticazione, m
 
 **Stack:** Next.js · TypeScript · Supabase · PostgreSQL · Tailwind CSS · shadcn/ui  
 **Stato:** In sviluppo attivo  
-**Link:** [Live](https://keepsly.app) · Repository privato
+**Link:** [Live](https://www.kutia.app/) · Repository privato
 
 ---
 
